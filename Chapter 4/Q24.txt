@@ -1,0 +1,12 @@
+Name: Zachary Michael Hamilton
+Month: August
+Package Purchased: a
+Hours used: 51
+
+Total Amount due:
+-----------------
+$91.95
+
+You could've saved:
+$46.00 if you would've chosen Package B.
+$72.00 if you would've chosen Package C.
